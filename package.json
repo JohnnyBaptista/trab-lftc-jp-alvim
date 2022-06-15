@@ -1,5 +1,4 @@
 {
-  "homepage": "http://glyve99.github.io/trab-lftc",
   "name": "trabalho-lftc",
   "version": "0.1.0",
   "private": true,
@@ -14,8 +13,9 @@
     "react": "^17.0.1",
     "react-d3-graph": "^2.6.0",
     "react-dom": "^17.0.1",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.2.0",
     "react-scripts": "4.0.0",
+    "styled-components": "^5.3.5",
     "web-vitals": "^0.2.4"
   },
   "scripts": {

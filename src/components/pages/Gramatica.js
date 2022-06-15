@@ -200,10 +200,6 @@ export default function Gramatica() {
     return (
         <Container maxWidth='lg' style={styles.container}>
             <header style={styles.header}>
-                <Link style={styles.button} to="/" width="20px" height="40px">
-                    <Tooltip title="Voltar"><Button style={styles.button}><ArrowBackIcon color="action"/></Button></Tooltip>
-                </Link>
-                
                 <p style={styles.text}>Gramática regular</p>
             </header>
 
